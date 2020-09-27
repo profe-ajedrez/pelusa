@@ -13,13 +13,13 @@ LOGS_PATH="logs/application.log"
 
 EXCEPTION_MAIL_SENDER="apidev.apidev.cl"
 EXCEPTION_MAIL_SUBJECT="Excepción"
-EXCEPTION_MAIL_TARGETS="metaljacobo@gmail.com, chess.coach.ar@gmail.com"
+EXCEPTION_MAIL_TARGETS="your@mail.com, your.other@mail.com"
 EXCEPTION_HANDLER="custom"
 FAIL_FAST_EXCEPTIONS="true"
 
 MAIL_HOST="smtp.gmail.com"
 MAIL_PORT=587
-MAIL_USERNAME="metaljacobo@gmail.com"
-MAIL_PASSWORD="jMaBopus1980"
-MAIL_FROM="apidev@apidev.cl"
-MAIL_REPLY_TO="chess.coach.ar@gmail.com"
+MAIL_USERNAME="your.user.mail@gmail.com"
+MAIL_PASSWORD="yourpass"
+MAIL_FROM="fromwho@hhh.com"
+MAIL_REPLY_TO="reply.to@dummy.com"
